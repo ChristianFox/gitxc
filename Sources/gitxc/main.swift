@@ -1,1 +1,2 @@
-print("Hello, world!")
+
+GitXC.main()
