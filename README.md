@@ -2,7 +2,7 @@
 
 ## What problem does it solve?
 
-If two branches need to be merged and the CFBundleVersion value has been changed in both branches then git will detect a conflict that needs to be resolved manually. This occurs frequently if using a script to increment the build number automatically. This can get very tedious working on a project with mulitple extensions.
+If two branches need to be merged and the CFBundleVersion value has been changed in both branches then git will detect a conflict that needs to be resolved manually. This occurs frequently if using a script to increment the build number automatically. This can get very tedious working on a project with multiple branches & developers.
 
 ## Installation
 
