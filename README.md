@@ -101,3 +101,6 @@ OPTIONS:
   -c, --commit            If enabled will commit after resolving plist conflicts if that is possible, will not attempt to
 						  commit if unresolved conflicts remain
   -h, --help              Show help information.
+
+
+<a href="https://www.buymeacoffee.com/chrisfox" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
